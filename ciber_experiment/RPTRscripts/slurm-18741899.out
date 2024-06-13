@@ -1,0 +1,2 @@
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/notanalyzed/RPTR_2_15_S66.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_2_15_S66.fastq.gz.assembled_output.csv 
+slurmstepd: error: *** JOB 18741899 ON n0180.savio2 CANCELLED AT 2024-05-15T23:52:33 DUE TO TIME LIMIT ***

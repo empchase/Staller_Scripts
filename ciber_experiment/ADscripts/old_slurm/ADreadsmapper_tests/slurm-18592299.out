@@ -1,0 +1,6 @@
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads//AD_2_0_S44.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_2_0_S44.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Traceback (most recent call last):
+  File "/global/scratch/users/empchase/Scripts/ciber_experiment/ADreadsmapper.py", line 12, in <module>
+    conn = duckdb.connect('/global/scratch/users/empchase/A10_sequencing/v2/analysis2.db') # connect to database with TBB map
+duckdb.IOException: IO Error: Could not set lock on file "/global/scratch/users/empchase/A10_sequencing/v2/analysis2.db": Resource temporarily unavailable
+make: *** [AD_2_0_S44.fastq.gz.assembled_output.csv] Error 1

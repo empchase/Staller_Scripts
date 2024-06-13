@@ -1,0 +1,22 @@
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_4_0_S76.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_4_0_S76.fastq.gz.assembled_output.csv 
+RPTR_4_0_S76.fastq.gz.assembled.fastq
+Total Reads 35752202
+Reads w BC and Tile of correct length
+35413536
+% Reads w correct length BCs
+0.9905274086334598
+# Unique RPTR BCs
+124685
+SUM Unique BCs
+35413536
+Traceback (most recent call last):
+  File "/global/scratch/users/empchase/Scripts/ciber_experiment/RPTRscripts/RPTRreadsmapper.py", line 247, in <module>
+    main(args.input, args.output)
+  File "/global/scratch/users/empchase/Scripts/ciber_experiment/RPTRscripts/RPTRreadsmapper.py", line 210, in main
+    countsdf = SQLanalyze_tiles_rptrbcs(rawmap)
+  File "/global/scratch/users/empchase/Scripts/ciber_experiment/RPTRscripts/RPTRreadsmapper.py", line 170, in SQLanalyze_tiles_rptrbcs
+    myquery = RPTR_SQLsearch(x)
+  File "/global/scratch/users/empchase/Scripts/ciber_experiment/RPTRscripts/RPTRreadsmapper.py", line 112, in RPTR_SQLsearch
+    myquery = conn.sql("SELECT AD, AD_BC FROM A10_2_T_NODBLMAP_20240422 WHERE RPTR_BC='{}'".format(query)).to_df() #search for corresponding Tile-ADbc
+duckdb.ConnectionException: Connection Error: Connection has already been closed
+make: *** [RPTR_4_0_S76.fastq.gz.assembled_output.csv] Error 1

@@ -1,0 +1,11 @@
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/sample2/AD_2_0_S44.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/scripttest/AD_2_0_S44.fastq.gz.assembled_output.txt -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+Traceback (most recent call last):
+  File "/global/scratch/users/empchase/Scripts/ciber_experiment/ADreadsmapper.py", line 274, in <module>
+    main(args.input, args.output, args.design)
+  File "/global/scratch/users/empchase/Scripts/ciber_experiment/ADreadsmapper.py", line 234, in main
+    rawmap = adbc_mapper(input_file, designed_tile_dictionary)
+  File "/global/scratch/users/empchase/Scripts/ciber_experiment/ADreadsmapper.py", line 146, in adbc_mapper
+    tileBC_df = pd.DataFrame.from_dict(tileBC_dict)
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+make: *** [AD_2_0_S44.fastq.gz.assembled_output.txt] Error 1

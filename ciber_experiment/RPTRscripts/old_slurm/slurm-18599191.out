@@ -1,0 +1,6 @@
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/sample2/RPTR_2_0_S63.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/scripttest/RPTR_2_0_S63.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Traceback (most recent call last):
+  File "/global/scratch/users/empchase/Scripts/ciber_experiment/RPTRscripts/RPTRreadsmapper.py", line 74, in <module>
+    def rbc_finder(readfile, bc_pre=rpp, bc_post=rpf, bc_len=14):
+NameError: name 'rpp' is not defined
+make: *** [RPTR_2_0_S63.fastq.gz.assembled_output.csv] Error 1

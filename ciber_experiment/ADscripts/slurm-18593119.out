@@ -1,0 +1,361 @@
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_2_0_S44.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_2_0_S44.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_2_0_S44.fastq.gz.assembled.fastq
+Total Reads 28596028
+Reads w BC and Tile of correct length
+19016105
+% Reads w correct length Tiles/BCs
+0.6649911309360866
+# designed 17898411
+# Unique Tile-ADbc pairs
+28137
+SUM Unique BCs
+17898411
+# BC matches to A10 deep seq map
+3931
+TOT BC matches to A10 deep seq map
+17401271
+
+['AD_2_0_S44.fastq.gz.assembled.fastq', 28596028, 19016105, 0.6649911309360866, 17898411, 28137, 3931, 17401271]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_3_240_S55.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_3_240_S55.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_3_240_S55.fastq.gz.assembled.fastq
+Total Reads 32676395
+Reads w BC and Tile of correct length
+21735475
+% Reads w correct length Tiles/BCs
+0.6651735909056063
+# designed 20472679
+# Unique Tile-ADbc pairs
+35203
+SUM Unique BCs
+20472679
+# BC matches to A10 deep seq map
+4007
+TOT BC matches to A10 deep seq map
+19909474
+
+['AD_3_240_S55.fastq.gz.assembled.fastq', 32676395, 21735475, 0.6651735909056063, 20472679, 35203, 4007, 19909474]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_4_10_S58.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_4_10_S58.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_4_10_S58.fastq.gz.assembled.fastq
+Total Reads 31068838
+Reads w BC and Tile of correct length
+20637359
+% Reads w correct length Tiles/BCs
+0.6642462457076767
+# designed 19439708
+# Unique Tile-ADbc pairs
+31030
+SUM Unique BCs
+19439708
+# BC matches to A10 deep seq map
+3984
+TOT BC matches to A10 deep seq map
+18895347
+
+['AD_4_10_S58.fastq.gz.assembled.fastq', 31068838, 20637359, 0.6642462457076767, 19439708, 31030, 3984, 18895347]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_4_5_S57.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_4_5_S57.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_4_5_S57.fastq.gz.assembled.fastq
+Total Reads 29479549
+Reads w BC and Tile of correct length
+19595782
+% Reads w correct length Tiles/BCs
+0.6647246197694544
+# designed 18461706
+# Unique Tile-ADbc pairs
+30375
+SUM Unique BCs
+18461706
+# BC matches to A10 deep seq map
+3984
+TOT BC matches to A10 deep seq map
+17949780
+
+['AD_4_5_S57.fastq.gz.assembled.fastq', 29479549, 19595782, 0.6647246197694544, 18461706, 30375, 3984, 17949780]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_4_15_S59.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_4_15_S59.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_4_15_S59.fastq.gz.assembled.fastq
+Total Reads 32731675
+Reads w BC and Tile of correct length
+21778028
+% Reads w correct length Tiles/BCs
+0.6653502455954362
+# designed 20540958
+# Unique Tile-ADbc pairs
+31073
+SUM Unique BCs
+20540958
+# BC matches to A10 deep seq map
+3993
+TOT BC matches to A10 deep seq map
+19974733
+
+['AD_4_15_S59.fastq.gz.assembled.fastq', 32731675, 21778028, 0.6653502455954362, 20540958, 31073, 3993, 19974733]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_2_180_S49.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_2_180_S49.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_2_180_S49.fastq.gz.assembled.fastq
+Total Reads 37785429
+Reads w BC and Tile of correct length
+25129354
+% Reads w correct length Tiles/BCs
+0.6650540873837902
+# designed 23660447
+# Unique Tile-ADbc pairs
+34024
+SUM Unique BCs
+23660447
+# BC matches to A10 deep seq map
+3994
+TOT BC matches to A10 deep seq map
+23008329
+
+['AD_2_180_S49.fastq.gz.assembled.fastq', 37785429, 25129354, 0.6650540873837902, 23660447, 34024, 3994, 23008329]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_3_180_S54.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_3_180_S54.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_3_180_S54.fastq.gz.assembled.fastq
+Total Reads 32166856
+Reads w BC and Tile of correct length
+21500817
+% Reads w correct length Tiles/BCs
+0.6684152470480795
+# designed 20262025
+# Unique Tile-ADbc pairs
+32604
+SUM Unique BCs
+20262025
+# BC matches to A10 deep seq map
+4004
+TOT BC matches to A10 deep seq map
+19704241
+
+['AD_3_180_S54.fastq.gz.assembled.fastq', 32166856, 21500817, 0.6684152470480795, 20262025, 32604, 4004, 19704241]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_3_10_S52.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_3_10_S52.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_3_10_S52.fastq.gz.assembled.fastq
+Total Reads 29170896
+Reads w BC and Tile of correct length
+19333534
+% Reads w correct length Tiles/BCs
+0.662767917721828
+# designed 18199559
+# Unique Tile-ADbc pairs
+31151
+SUM Unique BCs
+18199559
+# BC matches to A10 deep seq map
+3982
+TOT BC matches to A10 deep seq map
+17689838
+
+['AD_3_10_S52.fastq.gz.assembled.fastq', 29170896, 19333534, 0.662767917721828, 18199559, 31151, 3982, 17689838]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_4_180_S61.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_4_180_S61.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_4_180_S61.fastq.gz.assembled.fastq
+Total Reads 42680103
+Reads w BC and Tile of correct length
+28314254
+% Reads w correct length Tiles/BCs
+0.6634064121166718
+# designed 26664322
+# Unique Tile-ADbc pairs
+39754
+SUM Unique BCs
+26664322
+# BC matches to A10 deep seq map
+4034
+TOT BC matches to A10 deep seq map
+25930522
+
+['AD_4_180_S61.fastq.gz.assembled.fastq', 42680103, 28314254, 0.6634064121166718, 26664322, 39754, 4034, 25930522]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_4_30_S60.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_4_30_S60.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_4_30_S60.fastq.gz.assembled.fastq
+Total Reads 37031059
+Reads w BC and Tile of correct length
+24644223
+% Reads w correct length Tiles/BCs
+0.6655014375905371
+# designed 23202270
+# Unique Tile-ADbc pairs
+34025
+SUM Unique BCs
+23202270
+# BC matches to A10 deep seq map
+3999
+TOT BC matches to A10 deep seq map
+22561934
+
+['AD_4_30_S60.fastq.gz.assembled.fastq', 37031059, 24644223, 0.6655014375905371, 23202270, 34025, 3999, 22561934]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_2_5_S45.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_2_5_S45.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_2_5_S45.fastq.gz.assembled.fastq
+Total Reads 26861003
+Reads w BC and Tile of correct length
+17876643
+% Reads w correct length Tiles/BCs
+0.6655240312508063
+# designed 16816526
+# Unique Tile-ADbc pairs
+26929
+SUM Unique BCs
+16816526
+# BC matches to A10 deep seq map
+3915
+TOT BC matches to A10 deep seq map
+16360157
+
+['AD_2_5_S45.fastq.gz.assembled.fastq', 26861003, 17876643, 0.6655240312508063, 17876643, 26929, 3915, 16360157]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_2_15_S47.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_2_15_S47.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_2_15_S47.fastq.gz.assembled.fastq
+Total Reads 34497180
+Reads w BC and Tile of correct length
+22893606
+% Reads w correct length Tiles/BCs
+0.663637027722266
+# designed 21561231
+# Unique Tile-ADbc pairs
+33457
+SUM Unique BCs
+21561231
+# BC matches to A10 deep seq map
+3978
+TOT BC matches to A10 deep seq map
+20959437
+
+['AD_2_15_S47.fastq.gz.assembled.fastq', 34497180, 22893606, 0.663637027722266, 21561231, 33457, 3978, 20959437]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_2_10_S46.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_2_10_S46.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_2_10_S46.fastq.gz.assembled.fastq
+Total Reads 31356537
+Reads w BC and Tile of correct length
+20797473
+% Reads w correct length Tiles/BCs
+0.6632579675491589
+# designed 19594369
+# Unique Tile-ADbc pairs
+30924
+SUM Unique BCs
+19594369
+# BC matches to A10 deep seq map
+3967
+TOT BC matches to A10 deep seq map
+19049480
+
+['AD_2_10_S46.fastq.gz.assembled.fastq', 31356537, 20797473, 0.6632579675491589, 19594369, 30924, 3967, 19049480]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_4_0_S56.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_4_0_S56.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_4_0_S56.fastq.gz.assembled.fastq
+Total Reads 32525715
+Reads w BC and Tile of correct length
+21643351
+% Reads w correct length Tiles/BCs
+0.6654227585773287
+# designed 20371357
+# Unique Tile-ADbc pairs
+30744
+SUM Unique BCs
+20371357
+# BC matches to A10 deep seq map
+3966
+TOT BC matches to A10 deep seq map
+19809148
+
+['AD_4_0_S56.fastq.gz.assembled.fastq', 32525715, 21643351, 0.6654227585773287, 20371357, 30744, 3966, 19809148]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_3_0_S50.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_3_0_S50.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_3_0_S50.fastq.gz.assembled.fastq
+Total Reads 35713078
+Reads w BC and Tile of correct length
+23772831
+% Reads w correct length Tiles/BCs
+0.6656617780186855
+# designed 22416603
+# Unique Tile-ADbc pairs
+34045
+SUM Unique BCs
+22416603
+# BC matches to A10 deep seq map
+3991
+TOT BC matches to A10 deep seq map
+21796251
+
+['AD_3_0_S50.fastq.gz.assembled.fastq', 35713078, 23772831, 0.6656617780186855, 22416603, 34045, 3991, 21796251]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_3_15_S53.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_3_15_S53.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_3_15_S53.fastq.gz.assembled.fastq
+Total Reads 32209522
+Reads w BC and Tile of correct length
+21402196
+% Reads w correct length Tiles/BCs
+0.6644679793757883
+# designed 20172250
+# Unique Tile-ADbc pairs
+32679
+SUM Unique BCs
+20172250
+# BC matches to A10 deep seq map
+3993
+TOT BC matches to A10 deep seq map
+19612067
+
+['AD_3_15_S53.fastq.gz.assembled.fastq', 32209522, 21402196, 0.6644679793757883, 20172250, 32679, 3993, 19612067]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_4_240_S62.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_4_240_S62.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_4_240_S62.fastq.gz.assembled.fastq
+Total Reads 34409399
+Reads w BC and Tile of correct length
+23025054
+% Reads w correct length Tiles/BCs
+0.6691501354034112
+# designed 21675921
+# Unique Tile-ADbc pairs
+33856
+SUM Unique BCs
+21675921
+# BC matches to A10 deep seq map
+4022
+TOT BC matches to A10 deep seq map
+21089483
+
+['AD_4_240_S62.fastq.gz.assembled.fastq', 34409399, 23025054, 0.6691501354034112, 21675921, 33856, 4022, 21089483]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_2_30_S48.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_2_30_S48.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_2_30_S48.fastq.gz.assembled.fastq
+Total Reads 37578617
+Reads w BC and Tile of correct length
+25041284
+% Reads w correct length Tiles/BCs
+0.6663705585546164
+# designed 23569082
+# Unique Tile-ADbc pairs
+32918
+SUM Unique BCs
+23569082
+# BC matches to A10 deep seq map
+3973
+TOT BC matches to A10 deep seq map
+22929801
+
+['AD_2_30_S48.fastq.gz.assembled.fastq', 37578617, 25041284, 0.6663705585546164, 23569082, 32918, 3973, 22929801]
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/AD_3_5_S51.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/AD_3_5_S51.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_3_5_S51.fastq.gz.assembled.fastq
+Total Reads 34198696
+Reads w BC and Tile of correct length
+22730194
+% Reads w correct length Tiles/BCs
+0.6646508978003138
+# designed 21413146
+# Unique Tile-ADbc pairs
+33321
+SUM Unique BCs
+21413146
+# BC matches to A10 deep seq map
+3986
+TOT BC matches to A10 deep seq map
+20820744
+
+['AD_3_5_S51.fastq.gz.assembled.fastq', 34198696, 22730194, 0.6646508978003138, 21413146, 33321, 3986, 20820744]

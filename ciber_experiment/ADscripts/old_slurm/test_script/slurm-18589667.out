@@ -1,0 +1,8 @@
+python3 test_script.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/sample2/AD_2_0_S44.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/scripttest/AD_2_0_S44.fastq.gz.assembled_output.txt
+Traceback (most recent call last):
+  File "test_script.py", line 39, in <module>
+    main(args.input, args.output)
+  File "test_script.py", line 13, in main
+    f_out.write(first_line)
+NameError: name 'first_line' is not defined
+make: *** [AD_2_0_S44.fastq.gz.assembled_output.txt] Error 1

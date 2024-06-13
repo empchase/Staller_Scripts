@@ -1,0 +1,255 @@
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_4_0_S76.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_4_0_S76.fastq.gz.assembled_output.csv 
+RPTR_4_0_S76.fastq.gz.assembled.fastq
+Total Reads 35752202
+Reads w BC and Tile of correct length
+35413536
+% Reads w correct length BCs
+0.9905274086334598
+# Unique RPTR BCs
+124685
+SUM Unique BCs
+35413536
+# BC matches to A10 deep seq map (Thresholded)
+3349
+TOT BC matches to A10 deep seq map
+20167251
+
+['RPTR_4_0_S76.fastq.gz.assembled.fastq', 35752202, 35413536, 0.9905274086334598, 124685, 3349, 20167251]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_3_0_S70.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_3_0_S70.fastq.gz.assembled_output.csv 
+RPTR_3_0_S70.fastq.gz.assembled.fastq
+Total Reads 29208826
+Reads w BC and Tile of correct length
+28941266
+% Reads w correct length BCs
+0.9908397550795092
+# Unique RPTR BCs
+115312
+SUM Unique BCs
+28941266
+# BC matches to A10 deep seq map (Thresholded)
+3386
+TOT BC matches to A10 deep seq map
+16351793
+
+['RPTR_3_0_S70.fastq.gz.assembled.fastq', 29208826, 28941266, 0.9908397550795092, 115312, 3386, 16351793]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_2_240_S69.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_2_240_S69.fastq.gz.assembled_output.csv 
+RPTR_2_240_S69.fastq.gz.assembled.fastq
+Total Reads 28851158
+Reads w BC and Tile of correct length
+28590503
+% Reads w correct length BCs
+0.9909655272762362
+# Unique RPTR BCs
+103518
+SUM Unique BCs
+28590503
+# BC matches to A10 deep seq map (Thresholded)
+3354
+TOT BC matches to A10 deep seq map
+19737534
+
+['RPTR_2_240_S69.fastq.gz.assembled.fastq', 28851158, 28590503, 0.9909655272762362, 103518, 3354, 19737534]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_2_5_S64.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_2_5_S64.fastq.gz.assembled_output.csv 
+RPTR_2_5_S64.fastq.gz.assembled.fastq
+Total Reads 29897603
+Reads w BC and Tile of correct length
+29632938
+% Reads w correct length BCs
+0.991147618088313
+# Unique RPTR BCs
+92456
+SUM Unique BCs
+29632938
+# BC matches to A10 deep seq map (Thresholded)
+3321
+TOT BC matches to A10 deep seq map
+19608267
+
+['RPTR_2_5_S64.fastq.gz.assembled.fastq', 29897603, 29632938, 0.991147618088313, 92456, 3321, 19608267]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_2_10_S65.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_2_10_S65.fastq.gz.assembled_output.csv 
+RPTR_2_10_S65.fastq.gz.assembled.fastq
+Total Reads 34031691
+Reads w BC and Tile of correct length
+33749792
+% Reads w correct length BCs
+0.9917165738252619
+# Unique RPTR BCs
+108308
+SUM Unique BCs
+33749792
+# BC matches to A10 deep seq map (Thresholded)
+3346
+TOT BC matches to A10 deep seq map
+23287491
+
+['RPTR_2_10_S65.fastq.gz.assembled.fastq', 34031691, 33749792, 0.9917165738252619, 108308, 3346, 23287491]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_2_30_S67.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_2_30_S67.fastq.gz.assembled_output.csv 
+RPTR_2_30_S67.fastq.gz.assembled.fastq
+Total Reads 25144079
+Reads w BC and Tile of correct length
+24935638
+% Reads w correct length BCs
+0.9917101358136841
+# Unique RPTR BCs
+87444
+SUM Unique BCs
+24935638
+# BC matches to A10 deep seq map (Thresholded)
+3335
+TOT BC matches to A10 deep seq map
+17462373
+
+['RPTR_2_30_S67.fastq.gz.assembled.fastq', 25144079, 24935638, 0.9917101358136841, 87444, 3335, 17462373]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_4_10_S78.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_4_10_S78.fastq.gz.assembled_output.csv 
+RPTR_4_10_S78.fastq.gz.assembled.fastq
+Total Reads 31258832
+Reads w BC and Tile of correct length
+30996924
+% Reads w correct length BCs
+0.9916213120183122
+# Unique RPTR BCs
+101119
+SUM Unique BCs
+30996924
+# BC matches to A10 deep seq map (Thresholded)
+3358
+TOT BC matches to A10 deep seq map
+21166978
+
+['RPTR_4_10_S78.fastq.gz.assembled.fastq', 31258832, 30996924, 0.9916213120183122, 101119, 3358, 21166978]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_3_180_S74.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_3_180_S74.fastq.gz.assembled_output.csv 
+RPTR_3_180_S74.fastq.gz.assembled.fastq
+Total Reads 29946720
+Reads w BC and Tile of correct length
+29655761
+% Reads w correct length BCs
+0.9902841112482436
+# Unique RPTR BCs
+103738
+SUM Unique BCs
+29655761
+# BC matches to A10 deep seq map (Thresholded)
+3368
+TOT BC matches to A10 deep seq map
+19801750
+
+['RPTR_3_180_S74.fastq.gz.assembled.fastq', 29946720, 29655761, 0.9902841112482436, 103738, 3368, 19801750]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_4_180_S81.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_4_180_S81.fastq.gz.assembled_output.csv 
+RPTR_4_180_S81.fastq.gz.assembled.fastq
+Total Reads 35752625
+Reads w BC and Tile of correct length
+35456767
+% Reads w correct length BCs
+0.9917248593634733
+# Unique RPTR BCs
+128091
+SUM Unique BCs
+35456767
+# BC matches to A10 deep seq map (Thresholded)
+3406
+TOT BC matches to A10 deep seq map
+23948097
+
+['RPTR_4_180_S81.fastq.gz.assembled.fastq', 35752625, 35456767, 0.9917248593634733, 128091, 3406, 23948097]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_4_30_S80.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_4_30_S80.fastq.gz.assembled_output.csv 
+RPTR_4_30_S80.fastq.gz.assembled.fastq
+Total Reads 28002280
+Reads w BC and Tile of correct length
+27783882
+% Reads w correct length BCs
+0.9922007065138981
+# Unique RPTR BCs
+102809
+SUM Unique BCs
+27783882
+# BC matches to A10 deep seq map (Thresholded)
+3372
+TOT BC matches to A10 deep seq map
+19260390
+
+['RPTR_4_30_S80.fastq.gz.assembled.fastq', 28002280, 27783882, 0.9922007065138981, 102809, 3372, 19260390]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_4_5_S77.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_4_5_S77.fastq.gz.assembled_output.csv 
+RPTR_4_5_S77.fastq.gz.assembled.fastq
+Total Reads 33756214
+Reads w BC and Tile of correct length
+33453868
+% Reads w correct length BCs
+0.9910432491037058
+# Unique RPTR BCs
+108072
+SUM Unique BCs
+33453868
+# BC matches to A10 deep seq map (Thresholded)
+3389
+TOT BC matches to A10 deep seq map
+21778942
+
+['RPTR_4_5_S77.fastq.gz.assembled.fastq', 33756214, 33453868, 0.9910432491037058, 108072, 3389, 21778942]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_4_15_S79.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_4_15_S79.fastq.gz.assembled_output.csv 
+RPTR_4_15_S79.fastq.gz.assembled.fastq
+Total Reads 27600242
+Reads w BC and Tile of correct length
+27380567
+% Reads w correct length BCs
+0.9920408306564849
+# Unique RPTR BCs
+96588
+SUM Unique BCs
+27380567
+# BC matches to A10 deep seq map (Thresholded)
+3360
+TOT BC matches to A10 deep seq map
+18992959
+
+['RPTR_4_15_S79.fastq.gz.assembled.fastq', 27600242, 27380567, 0.9920408306564849, 96588, 3360, 18992959]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_2_0_S63.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_2_0_S63.fastq.gz.assembled_output.csv 
+RPTR_2_0_S63.fastq.gz.assembled.fastq
+Total Reads 29281808
+Reads w BC and Tile of correct length
+29029700
+% Reads w correct length BCs
+0.9913902857364545
+# Unique RPTR BCs
+111148
+SUM Unique BCs
+29029700
+# BC matches to A10 deep seq map (Thresholded)
+3315
+TOT BC matches to A10 deep seq map
+16845879
+
+['RPTR_2_0_S63.fastq.gz.assembled.fastq', 29281808, 29029700, 0.9913902857364545, 111148, 3315, 16845879]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_3_5_S71.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_3_5_S71.fastq.gz.assembled_output.csv 
+RPTR_3_5_S71.fastq.gz.assembled.fastq
+Total Reads 30746712
+Reads w BC and Tile of correct length
+30473570
+% Reads w correct length BCs
+0.9911163834363818
+# Unique RPTR BCs
+104542
+SUM Unique BCs
+30473570
+# BC matches to A10 deep seq map (Thresholded)
+3359
+TOT BC matches to A10 deep seq map
+19962782
+
+['RPTR_3_5_S71.fastq.gz.assembled.fastq', 30746712, 30473570, 0.9911163834363818, 104542, 3359, 19962782]
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/RPTR_3_10_S72.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/analyzed_dfs/RPTR/RPTR_3_10_S72.fastq.gz.assembled_output.csv 
+RPTR_3_10_S72.fastq.gz.assembled.fastq
+Total Reads 33975374
+Reads w BC and Tile of correct length
+33680687
+% Reads w correct length BCs
+0.9913264530951154
+# Unique RPTR BCs
+106790
+SUM Unique BCs
+33680687
+# BC matches to A10 deep seq map (Thresholded)
+3353
+TOT BC matches to A10 deep seq map
+23095989
+
+['RPTR_3_10_S72.fastq.gz.assembled.fastq', 33975374, 33680687, 0.9913264530951154, 106790, 3353, 23095989]

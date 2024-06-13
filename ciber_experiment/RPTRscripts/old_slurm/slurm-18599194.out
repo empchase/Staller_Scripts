@@ -1,0 +1,20 @@
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/sample2/RPTR_2_0_S63.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/scripttest/RPTR_2_0_S63.fastq.gz.assembled_output.csv 
+RPTR_2_0_S63.fastq.gz.assembled.fastq
+Total Reads 29281808
+Reads w BC and Tile of correct length
+29029700
+% Reads w correct length BCs
+0.9913902857364545
+# Unique RPTR BCs
+111148
+SUM Unique BCs
+29029700
+Traceback (most recent call last):
+  File "/global/scratch/users/empchase/Scripts/ciber_experiment/RPTRscripts/RPTRreadsmapper.py", line 241, in <module>
+    main(args.input, args.output)
+  File "/global/scratch/users/empchase/Scripts/ciber_experiment/RPTRscripts/RPTRreadsmapper.py", line 204, in main
+    countsdf = SQLanalyze_tiles_rptrbcs(rawmap)
+  File "/global/scratch/users/empchase/Scripts/ciber_experiment/RPTRscripts/RPTRreadsmapper.py", line 158, in SQLanalyze_tiles_rptrbcs
+    start = time.perf_counter()
+NameError: name 'time' is not defined
+make: *** [RPTR_2_0_S63.fastq.gz.assembled_output.csv] Error 1

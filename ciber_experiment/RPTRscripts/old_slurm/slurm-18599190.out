@@ -1,0 +1,6 @@
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/sample2/RPTR_2_0_S63.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/scripttest/RPTR_2_0_S63.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+  File "/global/scratch/users/empchase/Scripts/ciber_experiment/RPTRscripts/RPTRreadsmapper.py", line 201
+    def main(input_file, output_file:
+            ^
+SyntaxError: '(' was never closed
+make: *** [RPTR_2_0_S63.fastq.gz.assembled_output.csv] Error 1

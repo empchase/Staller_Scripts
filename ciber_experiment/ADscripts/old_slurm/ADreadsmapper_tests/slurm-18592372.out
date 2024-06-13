@@ -1,0 +1,19 @@
+python3 ADreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/AD_reads/sample2/AD_2_0_S44.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/scripttest/AD_2_0_S44.fastq.gz.assembled_output.csv -d /global/scratch/users/empchase/A10_sequencing/v2/a10_designfile.csv
+Number of designed tiles: 20728
+AD_2_0_S44.fastq.gz.assembled.fastq
+Total Reads 28596028
+Reads w BC and Tile of correct length
+19016105
+% Reads w correct length Tiles/BCs
+0.6649911309360866
+# designed 17898411
+# Unique Tile-ADbc pairs
+28137
+SUM Unique BCs
+17898411
+# BC matches to A10 deep seq map
+3931
+TOT BC matches to A10 deep seq map
+17401271
+
+['AD_2_0_S44.fastq.gz.assembled.fastq', 28596028, 19016105, 0.6649911309360866, 17898411, 28137, 3931, 17401271]

@@ -1,0 +1,12 @@
+python3 RPTRreadsmapper.py -i /global/scratch/projects/fc_mvslab/data/sequencing/CZB_Apr2024/20240425/EC_Ciber2/results/assembled_reads/RPTR_reads/sample2/RPTR_2_0_S63.fastq.gz.assembled.fastq -o /global/scratch/users/empchase/Ciber2_ii/scripttest/RPTR_2_0_S63.fastq.gz.assembled_output.csv 
+RPTR_2_0_S63.fastq.gz.assembled.fastq
+Total Reads 29281808
+Reads w BC and Tile of correct length
+29029700
+% Reads w correct length BCs
+0.9913902857364545
+# Unique RPTR BCs
+111148
+SUM Unique BCs
+29029700
+slurmstepd: error: *** JOB 18599648 ON n0292.savio2 CANCELLED AT 2024-05-09T12:17:03 DUE TO TIME LIMIT ***
